@@ -4,10 +4,10 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
     "@nx/js": "18.2.4",
     "@nx/workspace": "18.2.4",
-    "nx": "18.2.4"
+    "nx": "18.2.4",
+    "qwik-nx": "^2.2.1"
   }
 }
